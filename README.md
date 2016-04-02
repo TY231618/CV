@@ -40,9 +40,7 @@ Confident when presenting to large and small groups. I built upon my corporate e
 
 - BSc Sport Science
 
-#### Any other qualifications
-
-## Experience
+## Work Experience
 
 **Grange Health Clubs** (Dec 2010 to Nov 2015)    
 *Fitness Manager*  
@@ -53,19 +51,7 @@ Confident when presenting to large and small groups. I built upon my corporate e
 
 | Projects     | Technologies Used   |
 |--------------|-------------|
-| Pitchup      |             |
-| Platform Finder |             |
-| Thermostat   |             |
-| Rock Paper Scissors |             |
-
-
-Makers Academy (November 2015 to February 2016)
-
-Practicing TDD from day one
-Learnt how to solve problems independently
-Pair programming every single day
-Best practices taught as standard. OOP, SOLID principles, encapsulation, refactoring
-Introduction to agile methodologies
-Leading standups from the first day
-Learning to craft software to make it right
-For links to projects I've worked on please see the bottom of this CV
+| Pitchup      | Frontend: Angular js, angular-google-maps, angular-animate. Tested with Jasmine, Karma and Protractor. Backend (API): Python, Flask, Flask-restful and PostgreSQL. Tested with Flask unittest. Repo: https://github.com/TY231618/pitchup            |
+| Platform Finder | Testing: Karma, Protractor and Jasmine. Backend: Ruby on Rails. Frontend: AngularJS. Repo: https://github.com/TY231618/platform_finder            |
+| Thermostat   | Javascript, jQuery, AJAX for the weather API, HTML and CSS. Test driven with Jasmine. Repo: https://github.com/TY231618/rps-challenge            |
+| Rock Paper Scissors | Ruby, Rspec, Capybara and Sinatra. Repo: https://github.com/TY231618/rps-challenge            |
