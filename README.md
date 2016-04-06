@@ -51,7 +51,7 @@ Confident when presenting to large and small groups. I built upon my corporate e
 
 | Projects     | Technologies Used   |
 |--------------|-------------|
-| Pitchup      | Frontend: Angular js, angular-google-maps, angular-animate. Tested with Jasmine, Karma and Protractor. Backend (API): Python, Flask, Flask-restful and PostgreSQL. Tested with Flask unittest. Repo: https://github.com/TY231618/pitchup            |
-| Platform Finder | Testing: Karma, Protractor and Jasmine. Backend: Ruby on Rails. Frontend: AngularJS. Repo: https://github.com/TY231618/platform_finder            |
+| Pitchup      | Frontend: Angular js, angular-google-maps, angular-animate.  Backend (API): Python, Flask, Flask-restful and PostgreSQL. Tested with Flask unittest, Jasmine, Karma and Protractor. Repo: https://github.com/TY231618/pitchup            |
+| Platform Finder | Frontend: AngularJS. Backend: Ruby on Rails. Testing: Karma, Protractor and Jasmine. Repo: https://github.com/TY231618/platform_finder            |
 | Thermostat   | Javascript, jQuery, AJAX for the weather API, Bootstrap, HTML and CSS. Test driven with Jasmine. Repo: https://github.com/TY231618/rps-challenge            |
-| Rock Paper Scissors | Ruby, Rspec, Capybara, Sinatra, Bootstrap, HTML and CSS. Repo: https://github.com/TY231618/rps-challenge            |
+| Rock Paper Scissors | Ruby, Sinatra, Bootstrap, HTML and CSS.  Test driven with Rspec and Capybara. Repo: https://github.com/TY231618/rps-challenge            |
